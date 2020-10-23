@@ -8,10 +8,10 @@ body {
 }
 .header {
   height: 70px;
-  background-color: green;
+  background-color: #1ea21e;
 }
 form {
-  background-color: #ed9c1d;
+  background-color: #1ea21e;
   margin-top: 100px;
   min-height: 800px;
   height: auto;
