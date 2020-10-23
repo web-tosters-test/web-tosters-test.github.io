@@ -90,4 +90,7 @@ label {
   img {
     margin-right: 50px;
   }
+  .header {
+    height: 185px;
+  }
 }
