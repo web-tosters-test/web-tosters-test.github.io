@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  /* Убираем отступы */
+  height: 100%;
+  /* Высота страницы */
+  background-size: cover;
+  /* Фон занимает всю доступную площадь */
+}
+.header {
+  height: 70px;
+  background-color: green;
+}
+form {
+  background-color: #3276ff;
+  margin-top: 90px;
+  min-height: 800px;
+  height: auto;
+  width: 100%;
+}
+.menu {
+  position: fixed;
+  width: 100%;
+  z-index: 9999;
+}
+.img-rounded {
+  width: 30px;
+  height: 30px;
+}
+.logo {
+  margin: 5px;
+  margin-left: 30px;
+  display: inline-block;
+}
+.header-btn {
+  height: 40px;
+  padding: 10px;
+  display: inline-block;
+  margin-left: 50px;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  width: 200px;
+  margin-top: 14px;
+}
+.header-btn h5 {
+  margin: auto;
+}

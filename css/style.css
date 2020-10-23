@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  /* Убираем отступы */
+  height: 100%;
+  /* Высота страницы */
+  background-size: cover;
+  /* Фон занимает всю доступную площадь */
+}
+.header {
+  height: 70px;
+  background-color: green;
+}
+.header-btn {
+  height: 40px;
+  padding: 10px;
+  display: inline-block;
+  margin-left: 50px;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  width: 170px;
+  margin-top: 14px;
+}
+img {
+  margin: 5px;
+  margin-left: 30px;
+  display: inline-block;
+}
+.menu {
+  width: 100%;
+  display: block;
+  position: fixed;
+  z-index: 9999;
+}
+#form {
+  margin-top: 180px;
+  margin-bottom: 40px;
+  background-color: #3276ff;
+  display: inline-block;
+  padding-bottom: 20px;
+  min-height: 300px;
+  height: auto;
+}
+h1 {
+  text-align: center;
+}
+.b1 {
+  height: 40px;
+  margin-top: 14px;
+  padding: 10px;
+  display: inline-block;
+  margin-left: 50px;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+}
+label {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
